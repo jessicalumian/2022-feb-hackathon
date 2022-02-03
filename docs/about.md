@@ -5,8 +5,9 @@ We are pleased to announce that the NIH Common Fund Data Ecosystem will be hosti
 #### Hackathon Benefits:
 
 - Gain experience with Common Fund data sets and have access to data set curators!
-- Meet researchers with common interests and  possibly spur collaborations!
 - See an immediate product from a short burst of concentrated effort!
+- Meet researchers with common interests and potentially spur collaborations or funding efforts!
+
 
 #### Participating CF Partners and their Resources:
 
